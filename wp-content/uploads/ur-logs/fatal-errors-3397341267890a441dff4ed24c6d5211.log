@@ -1,0 +1,4 @@
+2024-10-19T18:53:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\talawp\wp-content\plugins\advanced-dynamic-pricing-for-woocommerce\BaseVersion\Includes\Database\Repository\RuleRepository.php on line 133
+
+2024-10-20T06:40:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\talawp\wp-includes\plugin.php on line 1003
+
